@@ -43,6 +43,4 @@ It is, however, losing in many other aspects. pgBackRest can:
 
 ---
 
-*This solution is part of Percona's Customer Knowledge Base, providing a vast library of solutions that Percona Engineers have created while supporting our customers. To give you the knowledge you need the instant it becomes available, some articles may present a raw and unedited form.*
 
-*This article has been tested for the following versions of technologies:*
